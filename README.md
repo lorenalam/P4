@@ -1,4 +1,4 @@
-##Práctica 4 – API REST para Tareas del Viaje a NYC (Práctica 2)
+### Práctica 4 – API REST para Tareas del Viaje a NYC (Práctica 2)
  
 Se trata de una **API REST creada con Spring Boot** para gestionar una lista de tareas o actividades que se pueden hacer en un viaje de 4 días a Nueva York.  
 Está pensada para ser la base del backend de una web que ya tengo creada en anteriores prácticas.
